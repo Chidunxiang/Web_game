@@ -23,8 +23,6 @@ If the user moves the player to step on a "golden mushroom", the player avatar w
 I added a couple of `SetInterval()` functions. If the user moves the player to step on a "golden mushroom", the "Welcome!" text in the status window would be changed to "You are on fire!". This text would would highlight itself by changing its font color between red and black until the player loses his superpower.  
 
 
-<img src="https://github.com/danwyk/eecs493_hw2/blob/main/superpower.png">
-
 
 <br>
 
@@ -40,7 +38,7 @@ I added a handler to parse the input string into a list of integers. If there ar
 - input: a10a10 => frequency: 1010  
 - input: 1a0 100 => frequency: 1100  
 
-<img src="https://github.com/danwyk/eecs493_hw2/blob/main/set_frequency.png">
+
 
 <br>
 
